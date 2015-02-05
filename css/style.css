@@ -41,7 +41,7 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		color: #BE3030;
+		color: #8B0000;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -204,7 +204,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #BE3030;
+			border-color: #8B0000;
 		}
 
 	input[type="text"],
@@ -530,8 +530,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #BE3030;
-			border-color: #BE3030;
+			background: #8B0000;
+			border-color: #8B0000;
 			color: white !important;
 		}
 
@@ -571,7 +571,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #BE3030;
+			background-color: #8B0000;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -772,7 +772,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #BE3030;
+				background: #8B0000;
 				color: white;
 			}
 
