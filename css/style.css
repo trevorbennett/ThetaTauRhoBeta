@@ -41,7 +41,7 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		color: #3fb1a3;
+		color: #BE3030;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -204,7 +204,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #BE3030;
 		}
 
 	input[type="text"],
@@ -247,7 +247,6 @@
 	}
 
 		.image:before {
-			background: url("images/overlay.png");
 			content: '';
 			height: 100%;
 			left: 0;
@@ -331,13 +330,13 @@
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
-				background: #db6b67;
+			.icon.circle.fa-linkedin {
+				background: #0077B5;
 				color: white;
 			}
 
-				.icon.circle.fa-google-plus:hover {
-					background: #df7b77;
+				.icon.circle.fa-linkedin:hover {
+					background: #388EBB;
 				}
 
 			.icon.circle.fa-github {
@@ -531,8 +530,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #BE3030;
+			border-color: #BE3030;
 			color: white !important;
 		}
 
@@ -540,8 +539,8 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #C03E3E !important;
+				border-color: #C03E3E !important;
 			}
 
 		input[type="button"].fit,
@@ -572,7 +571,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #BE3030;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -773,7 +772,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #BE3030;
 				color: white;
 			}
 
