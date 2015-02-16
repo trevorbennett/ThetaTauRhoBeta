@@ -432,6 +432,20 @@
 			padding-left: 0.5em;
 		}
 
+    li.gear{
+        position:relative;
+        padding-top: .25em;
+        padding-bottom: .25em;
+        left:3em;
+    }
+
+    li.gear:before{
+        position: absolute;
+        font-family: FontAwesome;
+        left: -1.5em;
+        content: "\f013";
+    }
+
 	ul.icons {
 		cursor: default;
 	}
