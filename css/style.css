@@ -10,7 +10,8 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		/*background: #f3f6fa;*/
+        background: url(images/concrete_seamless.png);
 	}
 
 	body.is-loading * {
@@ -240,6 +241,17 @@
 	}
 
 /* Image */
+    #founders{
+        display:inline-block;
+        float:right;
+        margin-top: .3em;
+        margin-left: 1em;
+        height:9.5em;
+        width:auto;
+
+        
+    }
+        
 
 	.image {
 		border: 0;
@@ -928,7 +940,7 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
+		background: url(images/concrete_seamless.png);
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
