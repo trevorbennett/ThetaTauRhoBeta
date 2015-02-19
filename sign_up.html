@@ -74,23 +74,23 @@
 
 						<!-- Content -->
 							<div class="content">
-								<form>
+								<form name="loginform" method="post" action="register.php">
 									<div class="row 50%">
 										<div class="6u 12u(mobile)">
-											<input type="text" name="username" placeholder="Username" />
+											<input type="text" name="user_name" placeholder="Username" required/>
 										</div>
 										<div class="6u 12u(mobile)">
-											<input type="text" name="useremail" placeholder="Email" />
+											<input type="text" name="user_email" placeholder="Email" required/>
 										</div>
 									</div>
 									<div class="row 50%">
 										<div class="12u">
-											<input type="text" name="password" placeholder="Password (miniumum 6 characters)" />
+											<input type="password" name="user_password_new" placeholder="Password (miniumum 6 characters)" required />
 										</div>
 									</div>
 									<div class="row 50%">
 										<div class="12u">
-											<input type="text" name="passwordconfirm"                                                                 placeholder="Confirm your password"/>
+											<input type="password" name="user_password_repeat" placeholder="Confirm your password" required/>
 										</div>
 									</div>
 									<div class="row">
