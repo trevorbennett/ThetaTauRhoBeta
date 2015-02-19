@@ -986,6 +986,13 @@
 				}
 
 /* Layer */
+    #newsMain {
+        margin-bottom: -.2em;
+        font-size:28pt;
+        font-weight:bold;
+    }
+
+    
 
 	#topButton .toggle {
 		height: 100%;
