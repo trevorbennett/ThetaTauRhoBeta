@@ -1,17 +1,6 @@
 <?php
-// show potential errors / feedback (from login object)
-if (isset($login)) {
-    if ($login->errors) {
-        foreach ($login->errors as $error) {
-            echo $error;
-        }
-    }
-    if ($login->messages) {
-        foreach ($login->messages as $message) {
-            echo $message;
-        }
-    }
-}
+   header( 'Location: http://ohiothetatau.com/login.html' ) ;
+   exit();
 ?>
 
 <!-- login form box -->
@@ -27,4 +16,4 @@ if (isset($login)) {
 
 </form>
 
-<a href="register.php">Register new account</a>
+
