@@ -12,6 +12,7 @@
 	body, #skel-layers-wrapper {
 		/*background: #f3f6fa;*/
         background: url(images/concrete_seamless.png);
+        background-attachment: fixed;
 	}
 
 	body.is-loading * {
@@ -958,8 +959,9 @@
 
 	#footer {
 		background: url(images/concrete_seamless.png);
+        background-attachment: fixed;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 5em 5em 5em 5em;
 		text-align: center;
 	}
 
