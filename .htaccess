@@ -1,0 +1,9 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^email$ "http\:\/\/ohiothetatau\.com\/webmail" [R=301,L]
+
