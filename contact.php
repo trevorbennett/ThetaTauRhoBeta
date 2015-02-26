@@ -32,36 +32,36 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1 id="logo"><a href="index.html">Theta Tau <span>Rho Beta</span></a></h1>
+				<h1 id="logo"><a href="index.php">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.html">Welcome</a></li>
+						<li class="current"><a href="index.php">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Menu</a>
 							<ul>
-								<li><a href="actives.html">Actives</a></li>
-								<li><a href="rush.html">Rush</a></li>
-								<li><a href="alumni.html">Alumni</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="unavailable.php">Actives</a></li>
+								<li><a href="unavailable.php">Rush</a></li>
+								<li><a href="unavailable.php">Alumni</a></li>
+								<li><a href="unavailable.php">Contact</a></li>
                                 <li><a href="./email">Email Sign In</a></li>
 								<li class="submenu">
-									<a href="">About</a>
+									<a href="unavailable.php">About</a>
 																		<ul>
 
-										<li><a href="exec.html">Executive Board</a></li>                                  
-										<li><a href="members.html">Members</a></li>
-										<li><a href="mission.html">Mission</a></li>
-										<li><a href="news.html">News</a></li>
-										<li><a href="history.html">History</a></li>
+										<li><a href="exec.php">Executive Board</a></li>                                  
+										<li><a href="members.php">Members</a></li>
+										<li><a href="mission.php">Mission</a></li>
+										<li><a href="unavailable.php">News</a></li>
+										<li><a href="history.php">History</a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li><a href="login.html" class="button special">Login</a></li>
+						<li><a href="login.php" class="button special">Login</a></li>
 					</ul>
 				</nav>
 			</header>
-
+        
 		<!-- Main -->
 			<article id="main">
 
