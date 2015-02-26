@@ -60,7 +60,7 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1 id="logo"><a href="index.php">Theta Tau <span>Rho Beta</span></a></h1>
+				<h1 id="logo"><a href="index.html">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
 						<li class="current"><a href="index.php">Welcome</a></li>
