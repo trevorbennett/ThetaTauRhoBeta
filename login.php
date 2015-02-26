@@ -75,7 +75,7 @@
 
 						<!-- Content -->
 							<div class="content">
-								<form name="loginform" method="post" action="index.php">
+								<form name="loginform" method="post" action="verify">
                                     <p style="margin:1em">Username</p>
 									<div class="row 50%">
 										<div class="12u">
