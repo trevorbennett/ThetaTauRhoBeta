@@ -32,10 +32,10 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1 id="logo"><a href="index">Theta Tau <span>Rho Beta</span></a></h1>
+				<h1 id="logo"><a href="welcome">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.html">Welcome</a></li>
+						<li class="current"><a href="welcome">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Menu</a>
 							<ul>
@@ -57,7 +57,7 @@
 								</li>
 							</ul>
 						</li>
-						<li><a href="login.html" class="button special">Login</a></li>
+						<li><a href="login.html" class="button special">Logout</a></li>
 					</ul>
 				</nav>
 			</header>
