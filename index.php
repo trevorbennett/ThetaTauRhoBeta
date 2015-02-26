@@ -35,7 +35,7 @@
 				<h1 id="logo"><a href="index">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index">Welcome</a></li>
+						<li class="current"><a href="welcome">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Menu</a>
 							<ul>
@@ -113,7 +113,7 @@
 								<p>Rho Beta chapter remains one of the largest chapters of Theta Tau. </p>
 								<footer>
 									<ul class="buttons">
-										<li><a href="unavailable.html" class="button">Find Out More</a></li>
+										<li><a href="unavailable" class="button">Find Out More</a></li>
 									</ul>
 								</footer>
 
@@ -243,7 +243,7 @@
 				</header>
 				<footer>
 					<ul class="buttons">
-						<li><a href="unavailable.html" class="button special">Rush</a></li>
+						<li><a href="unavailable" class="button special">Rush</a></li>
 						<li><a href="#" class="button">Donate</a></li>
 					</ul>
 				</footer>

@@ -97,7 +97,7 @@
                                         
                                         
 
-											<a href="exec_f2014.html" class="button special">Fall 2014</a>
+											<a href="exec_f2014" class="button special">Fall 2014</a>
 									</footer>
 								</section>
 

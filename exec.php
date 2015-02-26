@@ -102,7 +102,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/pat.jpg" alt="Pat" style="width:230px;height:230px"><br /><br /><strong>Regent </strong><br />YPatrick Hadchiti 
+									<p><img src="images/exec/pat.jpg" alt="Pat" style="width:230px;height:230px"><br /><br /><strong>Regent </strong><br />Patrick Hadchiti 
 								</section>
 
 							</div>
@@ -177,7 +177,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/lesh.jpg" alt="Nathan" style="width:230px;height:230px"><br /><br /><strong>Pledge Instructor </strong><br />Nathan Esker</p>
+									<p><img src="images/exec/nathan.jpg" alt="Nathan" style="width:230px;height:230px"><br /><br /><strong>Pledge Instructor </strong><br />Nathan Esker</p>
 								</section>
 
 							</div>
@@ -251,7 +251,7 @@
                                         
                                         
 
-											<a href="exec_arc.html" class="button special">Previous</a>
+											<a href="exec_arc" class="button special">Previous</a>
 									</footer>
 								</section>
 
