@@ -251,7 +251,7 @@
                                         
                                         
 
-											<a href="exec_arc" class="button special">Previous</a>
+											<a href="archives/exec/previous" class="button special">Previous</a>
 									</footer>
 								</section>
 
