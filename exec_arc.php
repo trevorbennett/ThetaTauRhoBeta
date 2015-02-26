@@ -35,33 +35,33 @@
 				<h1 id="logo"><a href="index.html">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.php">Welcome</a></li>
+						<li class="current"><a href="index">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Menu</a>
 							<ul>
-								<li><a href="unavailable.php">Actives</a></li>
-								<li><a href="unavailable.php">Rush</a></li>
-								<li><a href="unavailable.php">Alumni</a></li>
-								<li><a href="unavailable.php">Contact</a></li>
+								<li><a href="login">Actives</a></li>
+								<li><a href="unavailable">Rush</a></li>
+								<li><a href="unavailable">Alumni</a></li>
+								<li><a href="unavailable">Contact</a></li>
                                 <li><a href="./email">Email Sign In</a></li>
 								<li class="submenu">
-									<a href="unavailable.php">About</a>
+									<a href="unavailable">About</a>
 																		<ul>
 
-										<li><a href="exec.php">Executive Board</a></li>                                  
-										<li><a href="members.php">Members</a></li>
-										<li><a href="mission.php">Mission</a></li>
-										<li><a href="unavailable.php">News</a></li>
-										<li><a href="history.php">History</a></li>
+										<li><a href="exec">Executive Board</a></li>                                  
+										<li><a href="members">Members</a></li>
+										<li><a href="mission">Mission</a></li>
+										<li><a href="unavailable">News</a></li>
+										<li><a href="history">History</a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li><a href="login.php" class="button special">Login</a></li>
+						<li><a href="login" class="button special">Login</a></li>
 					</ul>
 				</nav>
 			</header>
-
+        
 		<!-- Main -->
 			<article id="main">
                 
