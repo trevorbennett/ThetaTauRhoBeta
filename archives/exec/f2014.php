@@ -32,36 +32,37 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1 id="logo"><a href="welcome">Theta Tau <span>Rho Beta</span></a></h1>
+				<h1 id="logo"><a href="/welcome">Theta Tau <span>Rho Beta</span></a></h1>
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="welcome">Welcome</a></li>
+						<li class="current"><a href="/welcome">Welcome</a></li>
 						<li class="submenu">
 							<a href="">Menu</a>
 							<ul>
-								<li><a href="login">Actives</a></li>
-								<li><a href="unavailable">Rush</a></li>
-								<li><a href="unavailable">Alumni</a></li>
-								<li><a href="unavailable">Contact</a></li>
+								<li><a href="/login">Actives</a></li>
+								<li><a href="/unavailable">Rush</a></li>
+								<li><a href="/unavailable">Alumni</a></li>
+								<li><a href="/unavailable">Contact</a></li>
                                 <li><a href="./email">Email Sign In</a></li>
 								<li class="submenu">
-									<a href="unavailable">About</a>
+									<a href="/unavailable">About</a>
 																		<ul>
 
-										<li><a href="exec">Executive Board</a></li>                                  
-										<li><a href="members">Members</a></li>
-										<li><a href="mission">Mission</a></li>
-										<li><a href="unavailable">News</a></li>
-										<li><a href="history">History</a></li>
+										<li><a href="/exec">Executive Board</a></li>                                  
+										<li><a href="/members">Members</a></li>
+										<li><a href="/mission">Mission</a></li>
+										<li><a href="/unavailable">News</a></li>
+										<li><a href="/history">History</a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li><a href="login" class="button special">Login</a></li>
+						<li><a href="/login" class="button special">Login</a></li>
 					</ul>
 				</nav>
 			</header>
-        
+
+
 		<!-- Main -->
 			<article id="main">
                 
@@ -91,14 +92,14 @@
 							<div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/yonry.jpg" alt="Yonry" style="width:230px;height:230px"><br /><br /><strong>Regent </strong><br />Yonry Zhu 
+									<p><img src="/images/exec/yonry.jpg" alt="Yonry" style="width:230px;height:230px"><br /><br /><strong>Regent </strong><br />Yonry Zhu 
 								</section>
 
 							</div>
 							<div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/lesh.jpg" alt="Lesher" style="width:230px;height:230px"><br /><br /><strong>Vice Regent </strong><br />Andrew Lesher
+									<p><img src="/images/exec/lesh.jpg" alt="Lesher" style="width:230px;height:230px"><br /><br /><strong>Vice Regent </strong><br />Andrew Lesher
 								</section>
 
 							</div>
@@ -106,7 +107,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/Russ.jpg" alt="Russell" style="width:230px;height:230px"><br /><br /><strong>Scribe </strong><br />Russell Gilabert
+									<p><img src="/images/exec/Russ.jpg" alt="Russell" style="width:230px;height:230px"><br /><br /><strong>Scribe </strong><br />Russell Gilabert
 								</section>
 
 							</div>
@@ -115,7 +116,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/trev.jpg" alt="Trevor" style="width:230px;height:230px"><br /><br /><strong>Treasurer </strong><br />Trevor Bennet
+									<p><img src="/images/exec/trev.jpg" alt="Trevor" style="width:230px;height:230px"><br /><br /><strong>Treasurer </strong><br />Trevor Bennet
 								</section>
 
 							</div>
@@ -123,7 +124,7 @@
                             <div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/comb.jpg" alt="comb" style="width:230px;height:230px"><br /><br /><strong>Corresponding Secretary </strong><br />Anthony Combs
+									<p><img src="/images/exec/comb.jpg" alt="comb" style="width:230px;height:230px"><br /><br /><strong>Corresponding Secretary </strong><br />Anthony Combs
 								</section>
 
 							</div>
@@ -131,7 +132,7 @@
                             <div class="4u 12u(narrower)">
 
 								<section style="text-align:center">
-									<p><img src="images/exec/rob.jpg" alt="Rob" style="width:230px;height:230px"><br /><br /><strong>Pledge Marshal </strong><br />Robert Parker
+									<p><img src="/images/exec/rob.jpg" alt="Rob" style="width:230px;height:230px"><br /><br /><strong>Pledge Marshal </strong><br />Robert Parker
 								</section>
 
 							</div>
@@ -159,14 +160,14 @@
 							<div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/pat.jpg" alt="Pat" style="width:230px;height:230px"><br /><br /><strong>Recruitment Chair </strong><br />Patrick Hadchiti</p>
+									<p><img src="/images/exec/pat.jpg" alt="Pat" style="width:230px;height:230px"><br /><br /><strong>Recruitment Chair </strong><br />Patrick Hadchiti</p>
 								</section>
 
 							</div>
 							<div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/lesh.jpg" alt="sam" style="width:230px;height:230px"><br /><br /><strong>Pledge Instructor </strong><br />Andrew Lesher</p>
+									<p><img src="/images/exec/lesh.jpg" alt="sam" style="width:230px;height:230px"><br /><br /><strong>Pledge Instructor </strong><br />Andrew Lesher</p>
 								</section>
 
 							</div>
@@ -174,7 +175,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/graham.jpg" alt="Graham" style="width:230px;height:230px"><br /><br /><strong>Service Chair </strong><br />Claire Hall</p>
+									<p><img src="/images/exec/graham.jpg" alt="Graham" style="width:230px;height:230px"><br /><br /><strong>Service Chair </strong><br />Claire Hall</p>
 								</section>
 
 							</div>
@@ -183,7 +184,7 @@
 							<div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/josh.jpg" alt="Josh" style="width:230px;height:230px"><br /><br /><strong>Professional Development Chair </strong><br />Josh Novak </p>
+									<p><img src="/images/exec/josh.jpg" alt="Josh" style="width:230px;height:230px"><br /><br /><strong>Professional Development Chair </strong><br />Josh Novak </p>
 								</section>
 
 							</div>
@@ -199,7 +200,7 @@
                             <div class="4u 12u(narrower)">
 
 								<section>
-									<p><img src="images/exec/rob.jpg" alt="Yonry" style="width:230px;height:230px"><br /><br /><strong>Fundraising Chair </strong><br />Robert Parker</p>
+									<p><img src="/images/exec/rob.jpg" alt="Yonry" style="width:230px;height:230px"><br /><br /><strong>Fundraising Chair </strong><br />Robert Parker</p>
 								</section>
 
 							</div>
