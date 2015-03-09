@@ -9,8 +9,8 @@
         <link rel="icon" href="http://engineering.jhu.edu/thetatau/img/favicon.ico" type="image/x-icon">
 		<title>Theta Tau | Rho Beta</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+  		<meta name="keywords" content="professional, engineering, fraternity, ohio, university, otpb, brotherhood, engineer, athens, rush">
+  		<meta name="description" content="The official website of the Rho Beta chapter of Theta Tau">
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.dropotron.min.js"></script>
